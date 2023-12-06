@@ -1,0 +1,12 @@
+Assessment:
+- Web
+- Thymeleaf
+- Validation
+- redis
+- glass fish (json p)
+- dev tools
+- lombok (optional)
+
+Need to know how to do a Multi-Stage Build Dockerfile
+
+Went through the workshop
